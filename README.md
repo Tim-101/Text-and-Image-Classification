@@ -1,5 +1,5 @@
 # This Model Was Created for My Deep Learning Unit 2nd Assignment
-The assignment was created as a Kaggle competition and it required me to perform a multi-label classificaion task.
+The assignment was created as a Kaggle competition. For this assignment, students were required me to perform a multi-label classificaion task.
 10,000 images and caption data were provided to train and test our model. To complete this objective, BERT model was used to classify 
 the text data and ResNet was used classify the image data.
 
@@ -12,4 +12,4 @@ very difficult to train and I failed to get a satisfactory result within a resas
 of both BERT and ResNet models actually provided me with a significantly better result.
 
 Overall, I was able to achieved 0.87 F1 score in the final Kaggle leaderboard. I was ranked 7th out of 215 participants.
-Please note that only the model with the best result was provided in this Repo.
+**Please note that only the model with the best result was provided in this Repo.
