@@ -12,4 +12,4 @@ very difficult to train and I failed to get a satisfactory result within a resas
 of both BERT and ResNet models actually provided me with a significantly better result.
 
 Overall, I was able to achieved 0.87 F1 score in the final Kaggle leaderboard. I was ranked 7th out of 215 participants.
-**Please note that only the model with the best result was provided in this Repo.
+<br><b>**Please note that only the model with the best result was provided in this Repo</b>.</br>
