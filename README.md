@@ -1,4 +1,4 @@
-# This Model Was Created for My Deep Learning's 2nd Assignment
+# This Model Was Created for My Deep Learning Unit 2nd Assignment
 The assignment was created as a Kaggle competition and it required me to perform a multi-label classificaion task.
 10,000 images and caption data were provided to train and test our model. To complete this objective, BERT model was used to classify 
 the text data and ResNet was used classify the image data.
