@@ -11,5 +11,5 @@ Based on my experiments, I concluded that training BERT together with ResNet res
 very difficult to train and I failed to get a satisfactory result within a resasonable training time. Simply taking the weighted average 
 of both BERT and ResNet models actually provided me with a significantly better result.
 
-Overall, I was able to achieved 0.87 F1 score in the final Kaggle leaderboard. I was ranked 7th out of 215 participants.
+Overall, I was able to achieved 0.89 F1 score in the final Kaggle leaderboard. I was ranked 8th out of 215 participants.
 <br><b>**Please note that only the model with the best result was provided in this Repo</b>.</br>
